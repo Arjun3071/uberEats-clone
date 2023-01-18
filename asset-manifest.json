@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/uberEats-clone/static/css/main.2d0d1dd3.css",
+    "main.js": "/uberEats-clone/static/js/main.6e116c3b.js",
+    "static/media/mainpage.png": "/uberEats-clone/static/media/mainpage.c9a182b1e35afd9a2d72.png",
+    "index.html": "/uberEats-clone/index.html",
+    "main.2d0d1dd3.css.map": "/uberEats-clone/static/css/main.2d0d1dd3.css.map",
+    "main.6e116c3b.js.map": "/uberEats-clone/static/js/main.6e116c3b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d0d1dd3.css",
+    "static/js/main.6e116c3b.js"
+  ]
+}
